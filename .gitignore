@@ -1,0 +1,26 @@
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+test-results/
+
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+.aws/
+.ssh/
+
+# Local tools, editors and logs
+.agents/
+.codex/
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db

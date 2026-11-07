@@ -1,0 +1,8 @@
+{
+  "source": "https://github.com/StarKnightt/brain-explorer/blob/master/public/models/brain-atlas.glb",
+  "originalSha256": "ce761741d866e32d7a5b7638f4cacd5ec03e2b582e72c8218aba483ac28125e8",
+  "runtimeSha256": "5f7e31a5f7176af75216bfffed9dbfed9ceb30bb9b93978a084c849aec501e98",
+  "modifications": "Selected unified-cortex, cerebellum and brain-stem; uniform scale and translation; 32-ray vertex ambient occlusion. Surface geometry, normals and region attributes unchanged. Runtime neutral material override.",
+  "vertexCount": 107130,
+  "triangles": 214256
+}
